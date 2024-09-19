@@ -1,6 +1,6 @@
 import React from 'react';
-import Logo from '../assets/logo22.svg';
-
+import { motion } from 'framer-motion';
+import { fadeIn } from '../variants';
 const Header = () => {
   return (
     <header className='py-8'>
@@ -10,9 +10,14 @@ const Header = () => {
             {/* <img src={Logo} alt='' /> */}
           </a>
 
-          <a href='#contact' className='btn btn-sm flex items-center justify-center'>
+          <motion.a
+          variants={fadeIn('left', 0.5)}
+          initial='hidden'
+          whileInView={'show'}
+          viewport={{ once: false, amount: 0.10 }}
+          href='#contact' className='btn btn-sm flex items-center justify-center'>
             Work with me
-          </a>
+          </motion.a>
         </div>
       </div>
     </header>
