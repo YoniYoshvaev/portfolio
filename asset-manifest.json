@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7b1df7dd.css",
+    "main.js": "/portfolio/static/js/main.889acd2d.js",
+    "static/media/figma-video.mov": "/portfolio/static/media/figma-video.bdc5a36bfdf8a9aee6d6.mov",
+    "static/media/tel-aviv-website.mov": "/portfolio/static/media/tel-aviv-website.f6ec5a76cacd1559c63c.mov",
+    "static/media/crmasters-website.mov": "/portfolio/static/media/crmasters-website.1d541d61519ba5c67cc1.mov",
+    "static/media/mern-crypto-video.mp4": "/portfolio/static/media/mern-crypto-video.a362d6828ce0d20fce72.mp4",
+    "static/media/yoni4.png": "/portfolio/static/media/yoni4.da7f4c0c2b38aaae5a94.png",
+    "static/media/ai-website-img.png": "/portfolio/static/media/ai-website-img.6e1c949e3e6d261b698f.png",
+    "static/media/mern-crypto.png": "/portfolio/static/media/mern-crypto.ef122eada9ed0adea73f.png",
+    "static/media/figma-img.png": "/portfolio/static/media/figma-img.df90d24f7023968ab46e.png",
+    "static/media/wix-img.png": "/portfolio/static/media/wix-img.f99c4eb6dae12724404b.png",
+    "static/media/site-bg6.jpg": "/portfolio/static/media/site-bg6.3ac9f14365353c0f264a.jpg",
+    "static/media/image.png": "/portfolio/static/media/image.bf7b2889f90d0474e5c4.png",
+    "static/media/servicepic.png": "/portfolio/static/media/servicepic.41b85bdc4f23d42b71b3.png",
+    "static/media/cv-yoni-yoshvaev.pdf": "/portfolio/static/media/cv-yoni-yoshvaev.3b84d8a6e05a0d56a530.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.7b1df7dd.css.map": "/portfolio/static/css/main.7b1df7dd.css.map",
+    "main.889acd2d.js.map": "/portfolio/static/js/main.889acd2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b1df7dd.css",
+    "static/js/main.889acd2d.js"
+  ]
+}
